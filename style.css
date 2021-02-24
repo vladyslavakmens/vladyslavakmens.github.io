@@ -246,7 +246,8 @@ li a:hover {
 footer{
   background-color: #7B7B7B ;
   padding: 1px;
-  margin-left: 108px;
+  margin-left: 150px;
+  width: 1200;
 }
 footer p {
   font-family: 'Noto Sans JP', sans-serif;
