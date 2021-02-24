@@ -2,10 +2,6 @@ body {
   background-color: white;
   margin: 0;
 }
-img {
-  max-width: 100%;
-  height: auto;
-}
 #me {
   width: 700px;
 }
